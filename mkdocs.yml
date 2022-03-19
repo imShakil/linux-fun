@@ -1,6 +1,0 @@
-site_name: Linux Fun
-site_url: https://imshakil.github.io/linux-fun
-nav:
-    - Home: index.md
-    - About: about.md
-theme: readthedocs
