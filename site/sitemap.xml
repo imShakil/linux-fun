@@ -5,4 +5,9 @@
          <lastmod>2022-03-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://example.com/about/</loc>
+         <lastmod>2022-03-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
