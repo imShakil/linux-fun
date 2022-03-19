@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: MkLorum
+site_url: https://imshakil.github.io/linux-fun/
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
+
